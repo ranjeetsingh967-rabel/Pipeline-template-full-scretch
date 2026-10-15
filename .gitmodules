@@ -1,0 +1,11 @@
+[submodule "Landing-zone-infra"]
+    path = Landing-zone-infra
+    url = https://dev.azure.com/825ranjeet/Yaml_practice/_git/Landing-zone-infra
+
+[submodule "Terraform-child-module"]
+    path = Terraform-child-module
+    url = https://dev.azure.com/825ranjeet/Yaml_practice/_git/Terraform-child-module
+
+[submodule "template-repository"]
+    path = template-repository
+    url = https://dev.azure.com/825ranjeet/Yaml_practice/_git/template-repository
